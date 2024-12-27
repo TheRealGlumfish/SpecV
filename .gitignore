@@ -1,0 +1,7 @@
+impl/
+sim/
+*.o
+*.mem
+*.elf
+# Potentially remove
+*.gprj.user
